@@ -38,8 +38,7 @@ def q5():
   
   number = input("Input an integer: ")
   makingequations = int(number)
-  result = makingequations + 5
-  print("Your number is makingequations + 5 is result" )  
+  print(f"Your number + 5 is {makingequations + 5}: " )  
 
 #Comment this code out when running tests
 #Do not comment this out when running your program normally
